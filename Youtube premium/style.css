@@ -246,4 +246,28 @@
     line-height: 25px;
     font-weight:100;
 }
+.faqs{
+    color: white;
+    background-color: black;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fqsdetail{
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 8% 0px;
+}
+.drop{
+    display: flex;
+    justify-content: space-between;
+}
+.faqhelp span{
+    color: blue;
+    cursor: pointer;
+}
 
